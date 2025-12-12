@@ -1,0 +1,16 @@
+ATC AUDIO SET CONFIG.
+
+Audio	[00001	~	00257] : audio_02 
+Audio	[00258	~	00410] : audio_03 
+Audio	[00411	~	00586] : audio_04 
+Audio	[00587 	~	00746] : audio_05
+Audio	[00747	~	00887] : audio_08
+Audio	[00888	~	01012] : audio_09
+Audio	[01013	~	01184] : audio_10
+Audio	[01185	~	01295] : audio_11
+Audio	[01296 	~	01636] : audio_12
+Audio	[01637	~	01843] : audio_13
+Audio	[01844	~	02032] : audio_14
+Audio	[02033	~	02287] : audio_15
+
+Passed : 06, 07
