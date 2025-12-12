@@ -1,6 +1,7 @@
 # ATC ASR (Air Traffic Control Automatic Speech Recognition)
+항공 교통 관제(ATC) 음성을 음소(phoneme) 시퀀스로 변환하는 자동 음성 인식 시스템
 
-항공 교통 관제(ATC) 음성을 음소(phoneme) 시퀀스로 변환하는 자동 음성 인식 시스템입니다. CNN과 RNN을 결합한 CRNN 아키텍처와 CTC Loss를 사용하여 음성을 텍스트로 변환합니다.
+CNN과 RNN을 결합한 CRNN 아키텍처와 CTC Loss를 사용하여 음성을 텍스트로 변환합니다.
 
 ## 목차
 - [프로젝트 개요](#프로젝트-개요)
